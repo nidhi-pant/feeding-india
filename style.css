@@ -1,0 +1,10 @@
+.footer_black{
+    background-color:#101010;
+    color:#9d9d9d;
+}
+
+#gallery img{
+    object-fit: cover;
+    height: 300px;
+    width: 350px;
+}
